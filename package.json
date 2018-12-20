@@ -1,0 +1,18 @@
+{
+  "name": "spratek_coffe_billing_machine",
+  "version": "0.0.1",
+  "description": "Spratek coffee billing machine",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jiri Severa",
+  "license": "ISC",
+  "dependencies": {
+    "level": "^4.0.0",
+    "moment": "^2.22.2",
+    "sublevel": "^2.4.0",
+    "telegraf": "^3.25.0",
+    "uniqid": "^5.0.3"
+  }
+}

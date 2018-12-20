@@ -1,0 +1,6 @@
+/node_modules
+/dist
+bot_env
+.vscode
+.DS_Store
+/coffee_bot_db

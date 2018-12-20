@@ -1,0 +1,22 @@
+{
+    "strictNullChecks": false,
+    "compilerOptions": {
+        "target": "es6",
+        "module": "commonjs",
+        "removeComments": true,
+        "sourceMap": true,
+        "outDir": "dist",
+        "types": [ 
+            "telegraf",
+            "node",
+        ],
+        "moduleResolution": "node",
+        "typeRoots": [
+            "node_modules"
+        ]
+    },
+    "exclude": [
+        "node_modules",
+        "dist"
+    ]
+}
